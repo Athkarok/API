@@ -122,7 +122,7 @@ code : **`409`**
 
 ```json
 {
-    "handel" : "Username Or Email",
+    "handle" : "Username Or Email",
     "password": "XXXXXXXXX"
 }
 ```
@@ -141,7 +141,7 @@ code : **`200`**
 ```Json
 {
     "code": 1,
-    "error": "Handel or Password is incorrect, try again or create a new account."
+    "error": "Handle or Password is incorrect, try again or create a new account."
 }
 ```
 
