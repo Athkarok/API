@@ -1,0 +1,7 @@
+Flask
+flask_cors
+requests
+flask_mysqldb
+google-auth
+flask_mail
+pyjwt
